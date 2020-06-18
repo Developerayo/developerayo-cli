@@ -5,7 +5,7 @@ console.log(`
 Shodipo Ayomide / developerayo                             
 Senior Developer Advocate @ Fleek  
 
-Email - shodipo ayomide
+Email - shodipovi@gmail.com
 Website - https://shodipoayomide.com
 Twitter - https://twitter.com/bradgarropy                                    
 GitHub - https://github.com/bradgarropy                                 
