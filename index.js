@@ -1,6 +1,7 @@
+#!/usr/bin/env.node
+
 console.log(`
-Shodipo Ayomide
-webiste - https://shodipoayomide.com
-Twitter - https://twitter.com/developerayo
-Email: - shodipovi@gmail.com
+
+Shodipo Ayomide / developerayo                             
+Senior Developer Advocate @ Fleek  
 `);
