@@ -16,5 +16,8 @@
     "cli"
   ],
   "author": "Shodipo Ayomide",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bradgarropy": "^1.0.0"
+  }
 }
