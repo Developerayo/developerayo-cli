@@ -20,5 +20,8 @@
     "cli"
   ],
   "author": "Shodipo Ayomide",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/developerayo/developerayo-cli/issues"
+  }
 }
